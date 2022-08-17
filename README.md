@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <h1 align="center">Hi, Myself Ayush Solanki.</h1>
 <h3 align="center">Information Technology Engineering Student.</h3>
 
@@ -15,7 +16,7 @@
 <a href="https://dart.dev/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" style="max-width: 100%;" width="50" height="50"></a>
 
 <h3>Web Backend Frameworks</h3>
-<a href="https://www.djangoproject.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" style="max-width: 100%;" width="50" height="50"> </a>
+<a href="https://www.djangoproject.com/"> <i class="devicon-django-plain-wordmark"></i> </a>
 <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="AspDotnet Core" style="max-width: 100%;" width="50" height="50"> </a>
 <a href="https://nodejs.org/en/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" style="max-width: 100%;" width="50" height="50"> </a>
 <a href="https://expressjs.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJS" style="max-width: 100%;" width="50" height="50"> </a>
